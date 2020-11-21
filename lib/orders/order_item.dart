@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'file:///C:/Users/Irshad%20Kumail/Desktop/Apps/shopping_app/lib/orders/order_provider.dart';
+
+import 'order_provider.dart';
 
 
 class OrderItemWidget extends StatefulWidget {

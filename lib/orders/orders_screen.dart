@@ -2,7 +2,8 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:shopping_app/orders/order_item.dart';
-import 'file:///C:/Users/Irshad%20Kumail/Desktop/Apps/shopping_app/lib/orders/order_provider.dart';
+
+import 'order_provider.dart';
 
 class OrdersScreen extends StatelessWidget {
   static const route = "order-screen";

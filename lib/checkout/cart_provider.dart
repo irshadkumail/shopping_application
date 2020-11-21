@@ -1,7 +1,7 @@
-import 'dart:convert';
 
 import 'package:flutter/widgets.dart';
-import 'file:///C:/Users/Irshad%20Kumail/Desktop/Apps/shopping_app/lib/home/product_provider.dart';
+
+import '../home/product_provider.dart';
 
 class CartItem {
   int quantity;

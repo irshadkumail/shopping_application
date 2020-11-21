@@ -3,7 +3,8 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:shopping_app/checkout/cart_provider.dart';
-import 'file:///C:/Users/Irshad%20Kumail/Desktop/Apps/shopping_app/lib/home/product_provider.dart';
+
+import '../home/product_provider.dart';
 
 class Order {
   final String id;

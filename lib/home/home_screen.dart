@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:shopping_app/checkout/checkout_widget.dart';
-import 'file:///C:/Users/Irshad%20Kumail/Desktop/Apps/shopping_app/lib/home/cart_icon.dart';
-import 'file:///C:/Users/Irshad%20Kumail/Desktop/Apps/shopping_app/lib/home/home_drawer.dart';
+
 
 import 'all_products.dart';
+import 'cart_icon.dart';
+import 'home_drawer.dart';
 
 class HomeScreen extends StatefulWidget {
   static const route = "home-screen";

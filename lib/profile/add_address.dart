@@ -3,7 +3,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:shopping_app/helper.dart';
-import 'file:///C:/Users/Irshad%20Kumail/Desktop/Apps/shopping_app/lib/profile/profile_provider.dart';
+
+import 'profile_provider.dart';
 
 class AddAddress extends StatefulWidget {
   @override

@@ -2,7 +2,8 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:shopping_app/helper.dart';
-import 'file:///C:/Users/Irshad%20Kumail/Desktop/Apps/shopping_app/lib/home/home_screen.dart';
+
+import '../home/home_screen.dart';
 
 class OtpScreen extends StatefulWidget {
   static const route = "otp-screen";
